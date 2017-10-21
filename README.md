@@ -4,7 +4,7 @@
 
 ***
 
-## Projects
+## YouTube
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/xv-a1uk-9GE)
 
