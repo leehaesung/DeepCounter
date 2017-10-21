@@ -16,6 +16,6 @@ Our mission is to create intelligent technologies for everyone, everywhere. For 
 
 ***
 
-## Aplication
+## Application
 
 ![portfolio.png](https://github.com/leehaesung/DeepCounter/blob/master/Images/deepcounter.jpg)
