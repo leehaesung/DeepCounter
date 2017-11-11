@@ -22,4 +22,10 @@ Our mission is to create intelligent technologies for everyone, everywhere. For 
 
 ## Application
 
+* Retailer Stores & Chains
+* Airports
+* Shopping Malls
+* Museum & Libraries
+* Other Public Sectors
+
 ![portfolio.png](https://github.com/leehaesung/DeepCounter/blob/master/Images/deepcounter.jpg)
