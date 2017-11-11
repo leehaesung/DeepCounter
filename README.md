@@ -4,6 +4,10 @@
 
 ***
 
+![DeepCounterSystem.png](https://github.com/leehaesung/DeepCounter/blob/master/Images/DeepCounterSystem.png)
+
+***
+
 ## YouTube
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/xv-a1uk-9GE)
