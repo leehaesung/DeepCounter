@@ -4,7 +4,7 @@
 
 ***
 
-DeepCounter system can automatically count many pedestrians & people wherever.
+* DeepCounter system can automatically count many pedestrians & people wherever.
 
 ![DeepCounterSystem.png](https://github.com/leehaesung/DeepCounter/blob/master/Images/DeepCounterSystem.png)
 
